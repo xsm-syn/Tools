@@ -1,11 +1,11 @@
 #!/bin/bash
 # Enable root access in VPS
-wget -qO- -O /etc/ssh/sshd_config https://raw.githubusercontent.com/xsm-syn/Tools/main/sshd_config;
-systemctl restart sshd;
-clear;
+wget -qO- -O /etc/ssh/sshd_config https://raw.githubusercontent.com/xsm-syn/Tools/main/sshd_config
+systemctl restart sshd
+clear
 read -p "Masukkan Password: " pwe
-usermod -p `perl -e "print crypt("$pwe","Q4")"` root;
-clear;
+usermod -p `perl -e "print crypt("$pwe","Q4")"` root
+clear
 echo -e "Mohon Simpan Informasi Akun VPS Ini"
 echo -e "============================================"
 echo -e "Akun Root (Akun Utama)"
@@ -14,4 +14,3 @@ echo -e "Username   = root"
 echo -e "Password   = $pwe"
 echo -e "============================================"
 echo ""
-exit
