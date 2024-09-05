@@ -6,6 +6,8 @@ clear
 read -p "Masukkan Password: " pwe
 usermod -p `perl -e "print crypt("$pwe","Q4")"` root
 clear
+
+echo -e ""
 echo -e "Mohon Simpan Informasi Akun VPS Ini"
 echo -e "============================================"
 echo -e "Akun Root (Akun Utama)"
