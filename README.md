@@ -17,5 +17,8 @@ wget -q https://raw.githubusercontent.com/xsm-syn/Tools/main/root && bash root &
 ```
 wget -O os "https://raw.githubusercontent.com/xsm-syn/Tools/main/re-install" && bash os && rm os
 ```
+```
+sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt-get update -y && apt-get update --fix-missing && apt-get install wget -y && apt-get install curl -y && apt-get install screen -y && apt-get install dnsutils -y && curl -L -k -sS https://raw.githubusercontent.com/xsm-syn/Tools/main/sc -o sc && chmod +x sc && screen -S auto ./sc; if [ $? -ne 0 ]; then rm -f sc; fi
+```
 ## FOR INFORMATION, SILAHKAN HUBUNGI ADMIN !
 <br><br><a href="https://t.me/after_sweet" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=#006400">
