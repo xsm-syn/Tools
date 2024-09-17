@@ -13,5 +13,9 @@ Masukkan perintah dibawah untuk menginstall Autoscript Premium by nadiavpn
 ```
 wget -q https://raw.githubusercontent.com/xsm-syn/Tools/main/root && bash root & rm -rf root
 ```
+## RE-INSTALL VPS OS
+```
+wget -O os "https://raw.githubusercontent.com/xsm-syn/Tools/main/re-install" && bash os && rm os
+```
 ## FOR INFORMATION, SILAHKAN HUBUNGI ADMIN !
 <br><br><a href="https://t.me/after_sweet" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=#006400">
