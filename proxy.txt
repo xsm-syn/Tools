@@ -1,3 +1,5 @@
+36.95.152.58,12137,ID,PT Telkom Indonesia
+108.136.167.35,11443,ID,Amazon Inc
 103.133.223.50,2096,ID,Cloud Teknologi Nusantara
 172.232.239.151,587,ID,Akamai Technologies
 206.237.98.76,587,ID,Pt Herza Digital
