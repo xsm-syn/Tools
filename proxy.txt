@@ -1428,8 +1428,8 @@
 212.31.114.110,19982,CY,CYTA 🇨🇾
 212.31.114.110,37768,CY,CYTA 🇨🇾
 91.223.208.217,443,CY,Cloudlayer8 🇨🇾
-116.224.207.100,25177.CN,China Telecom group
-103.56.60.156,6011.CN,China Unicom China
+116.224.207.100,25177,CN,China Telecom group 
+103.56.60.156,6011,CN,China Unicom China
 130.61.107.238,8443,DE,Oracle Corporation 🇩🇪
 91.107.164.6,7101,DE,Hetzner Online 🇩🇪
 91.107.183.230,8443,DE,Hetzner Online 🇩🇪
