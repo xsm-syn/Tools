@@ -1,3 +1,4 @@
+45.89.196.220,443,ID,Stark Industries Solutions LTD 🇮🇩
 36.95.152.58,12137,ID,PT Telkom Indonesia 🇮🇩
 108.136.167.35,11443,ID,Amazon Inc 🇮🇩
 103.133.223.50,2096,ID,Cloud Teknologi Nusantara 🇮🇩
