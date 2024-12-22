@@ -11,7 +11,6 @@
 103.133.223.52,2096,ID,Pt Cloud Teknologi 🇮🇩
 103.133.223.51,2096,ID,Pt Cloud Teknologi 🇮🇩
 103.168.146.169,20132,ID,Pt Herza Digital 🇮🇩
-203.194.112.119,2053,ID,Rumahweb 🇮🇩
 35.219.15.90,443,ID,Google LLC 🇮🇩
 43.133.145.156,53136,ID,Tencent cloud computing 🇮🇩
 172.232.239.249,587,ID,Akamai Connected Cloud 🇮🇩
@@ -20,9 +19,7 @@
 43.218.77.16,443,ID,AMAZON  🇮🇩
 43.218.77.16,1443,ID,AMAZON  🇮🇩
 35.219.50.99,443,ID,Google LLC  🇮🇩
-203.194.112.119,8443,ID,Rumahweb  🇮🇩
-103.186.1.209,8443,ID,Pt Cloud Hosting  🇮🇩
-149.129.250.187,443,ID,Alibaba (US) Technology Co. 🇮🇩, Ltd.
+149.129.250.187,443,ID,Alibaba Technology  🇮🇩
 172.232.231.24,587,ID,Akamai Connected Cloud 🇮🇩
 209.182.237.252,8080,SG,Hivelocity Inc 🇸🇬
 185.81.29.113,8080,SG,AKILE LTD 🇸🇬
